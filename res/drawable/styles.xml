@@ -1,0 +1,9 @@
+<resources>
+ <style name="Theme.TapNPay"
+ parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+ <item name="colorPrimary">#7B61FF</item>
+ <item name="colorPrimaryVariant">#5B3CFF</item>
+ <item name="colorOnPrimary">#FFFFFF</item>
+ 
+</style>
+ </resources>
