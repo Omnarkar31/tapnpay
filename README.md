@@ -1,4 +1,5 @@
-# tapNpay
+#TapNPay Prototype — Android Studio Project
+ (Java)
  How to import & run (quick steps)
 
 1. Create a New Android Studio project (Empty Activity, Java). Minimum SDK API 19+ (KitKat) or API 21
